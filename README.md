@@ -9,7 +9,7 @@ Este proyecto sirve como base para gestionar pedidos en restaurantes.
 
 Antes de iniciar asegúrate de tener instalado en tu máquina:
 
-- **Java 21** → [Descargar]([https://adoptium.net/](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html))  
+- **Java 21** → [Descargar](https://adoptium.net/](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html)  
 - **Maven 3.9+** → [Descargar](https://maven.apache.org/download.cgi)  
 - **Git** → [Descargar](https://git-scm.com/downloads)  
 
